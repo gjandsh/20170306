@@ -1,0 +1,10 @@
+.aside{
+  float:right;
+  text-align:center;
+  margin: 0 0 10px 10px;
+  padding:10px;
+  border:1px solid black;}
+dl{clear:left;}
+dt,dd{float:left;}
+.space{display:none}
+
